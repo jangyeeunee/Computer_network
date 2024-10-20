@@ -1,0 +1,9 @@
+ip:localhost
+port:6789
+
+[data]
+kim 30
+jang 175
+park 70
+lee 0
+hong 120
